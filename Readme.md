@@ -6,7 +6,7 @@
 #### 이전에 운영하던 깃헙이 어딧는지도 모르겠다. <br/>
 <br/>
 <br/>
-## Further Development Plan <br/>
+## Further Development Plan
 * Build BACK-END Server <br/>
 * Create An Realtime Environment <br/>
 
